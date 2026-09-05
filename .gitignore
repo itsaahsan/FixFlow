@@ -1,0 +1,12 @@
+﻿# deps
+node_modules/
+dist/
+__pycache__/
+*.pyc
+.venv/
+fixflow.db
+*.db
+.env
+# os
+.DS_Store
+Thumbs.db
